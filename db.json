@@ -7,5 +7,79 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+   {
+      "id":0,
+      "name":"Bastard - Kiss - Gris",
+      "price":3000,
+      "pricePerUnit":3000,
+      "img":"multimedia/DSC_0157.jpg",
+      "quantity":1
+   },
+   {
+      "id":1,
+      "name":"Bastard - NTL",
+      "price":3000,
+      "pricePerUnit":3000,
+      "img":"multimedia/DSC_0266 (2).jpg",
+      "quantity":1
+   },
+   {
+      "id":2,
+      "name":"Bball - Fuego",
+      "price":2000,
+      "pricePerUnit":2000,
+      "img":"multimedia/DSC_0278 (2).jpg",
+      "quantity":1
+   },
+   {
+      "id":3,
+      "name":"Bball - Lisa - Verde",
+      "price":2000,
+      "pricePerUnit":2000,
+      "img":"multimedia/DSC_0992.jpg",
+      "quantity":1
+   },
+   {
+      "id":4,
+      "name":"Bastard - Kiss - Gris",
+      "price":3000,
+      "pricePerUnit":3000,
+      "img":"multimedia/DSC_0157.jpg",
+      "quantity":1
+   },
+   {
+      "id":5,
+      "name":"Bastard - Outside",
+      "price":3000,
+      "pricePerUnit":3000,
+      "img":"multimedia/DSC_0167.jpg",
+      "quantity":1
+   },
+   {
+      "id":6,
+      "name":"Luys- Tired - Negra",
+      "price":4000,
+      "pricePerUnit":4000,
+      "img":"multimedia/DSC_0489 (2).jpg",
+      "quantity":1
+   },
+   {
+      "id":7,
+      "name":"Bastard - Them",
+      "price":3000,
+      "pricePerUnit":3000,
+      "img":"multimedia/DSC_0268 (3).jpg",
+      "quantity":1
+   },
+   {
+      "id":8,
+      "name":"Luys - Angel Caido",
+      "price":4000,
+      "pricePerUnit":4000,
+      "img":"multimedia/DSC_0397.jpg",
+      "quantity":1
+   }
+]
 }
